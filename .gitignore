@@ -1,0 +1,8 @@
+# never commit the paper or build products
+paper/
+*.tex
+*.pdf
+*.bib
+__pycache__/
+.venv/
+*.log
